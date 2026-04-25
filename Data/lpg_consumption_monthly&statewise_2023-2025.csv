@@ -1,0 +1,361 @@
+State,Year,Month,Commercial_LPG_TMT,Domestic_LPG_TMT
+Maharashtra,2023,January,42.15,266
+Uttar Pradesh,2023,January,33.72,371
+Tamil Nadu,2023,January,22.48,188
+Karnataka,2023,January,19.67,150
+Gujarat,2023,January,19.67,103
+West Bengal,2023,January,16.86,213
+Rajasthan,2023,January,14.05,140
+Madhya Pradesh,2023,January,14.05,138
+Delhi,2023,January,11.24,45
+Others,2023,January,87.11,892
+Maharashtra,2023,February,40.5,253
+Uttar Pradesh,2023,February,32.4,354
+Tamil Nadu,2023,February,21.6,179
+Karnataka,2023,February,18.9,143
+Gujarat,2023,February,18.9,98
+West Bengal,2023,February,16.2,203
+Rajasthan,2023,February,13.5,134
+Madhya Pradesh,2023,February,13.5,132
+Delhi,2023,February,10.8,43
+Others,2023,February,83.7,851
+Maharashtra,2023,March,41.25,255
+Uttar Pradesh,2023,March,33,356
+Tamil Nadu,2023,March,22,180
+Karnataka,2023,March,19.25,144
+Gujarat,2023,March,19.25,99
+West Bengal,2023,March,16.5,205
+Rajasthan,2023,March,13.75,135
+Madhya Pradesh,2023,March,13.75,132
+Delhi,2023,March,11,43
+Others,2023,March,85.25,857
+Maharashtra,2023,April,39.6,270
+Uttar Pradesh,2023,April,31.68,377
+Tamil Nadu,2023,April,21.12,191
+Karnataka,2023,April,18.48,153
+Gujarat,2023,April,18.48,104
+West Bengal,2023,April,15.84,216
+Rajasthan,2023,April,13.2,143
+Madhya Pradesh,2023,April,13.2,140
+Delhi,2023,April,10.56,46
+Others,2023,April,81.84,906
+Maharashtra,2023,May,38.85,284
+Uttar Pradesh,2023,May,31.08,397
+Tamil Nadu,2023,May,20.72,201
+Karnataka,2023,May,18.13,161
+Gujarat,2023,May,18.13,110
+West Bengal,2023,May,15.54,228
+Rajasthan,2023,May,12.95,150
+Madhya Pradesh,2023,May,12.95,148
+Delhi,2023,May,10.36,48
+Others,2023,May,80.29,955
+Maharashtra,2023,June,37.95,271
+Uttar Pradesh,2023,June,30.36,378
+Tamil Nadu,2023,June,20.24,192
+Karnataka,2023,June,17.71,153
+Gujarat,2023,June,17.71,105
+West Bengal,2023,June,15.18,217
+Rajasthan,2023,June,12.65,143
+Madhya Pradesh,2023,June,12.65,140
+Delhi,2023,June,10.12,46
+Others,2023,June,78.43,909
+Maharashtra,2023,July,39.6,298
+Uttar Pradesh,2023,July,31.68,416
+Tamil Nadu,2023,July,21.12,211
+Karnataka,2023,July,18.48,169
+Gujarat,2023,July,18.48,115
+West Bengal,2023,July,15.84,239
+Rajasthan,2023,July,13.2,157
+Madhya Pradesh,2023,July,13.2,155
+Delhi,2023,July,10.56,51
+Others,2023,July,81.84,1000
+Maharashtra,2023,August,40.5,300
+Uttar Pradesh,2023,August,32.4,419
+Tamil Nadu,2023,August,21.6,212
+Karnataka,2023,August,18.9,170
+Gujarat,2023,August,18.9,116
+West Bengal,2023,August,16.2,241
+Rajasthan,2023,August,13.5,159
+Madhya Pradesh,2023,August,13.5,156
+Delhi,2023,August,10.8,51
+Others,2023,August,83.7,1009
+Maharashtra,2023,September,38.85,296
+Uttar Pradesh,2023,September,31.08,414
+Tamil Nadu,2023,September,20.72,210
+Karnataka,2023,September,18.13,168
+Gujarat,2023,September,18.13,115
+West Bengal,2023,September,15.54,237
+Rajasthan,2023,September,12.95,156
+Madhya Pradesh,2023,September,12.95,154
+Delhi,2023,September,10.36,50
+Others,2023,September,80.29,995
+Maharashtra,2023,October,41.25,304
+Uttar Pradesh,2023,October,33,425
+Tamil Nadu,2023,October,22,215
+Karnataka,2023,October,19.25,172
+Gujarat,2023,October,19.25,118
+West Bengal,2023,October,16.5,244
+Rajasthan,2023,October,13.75,161
+Madhya Pradesh,2023,October,13.75,158
+Delhi,2023,October,11,52
+Others,2023,October,85.25,1022
+Maharashtra,2023,November,42.15,301
+Uttar Pradesh,2023,November,33.72,421
+Tamil Nadu,2023,November,22.48,213
+Karnataka,2023,November,19.67,171
+Gujarat,2023,November,19.67,117
+West Bengal,2023,November,16.86,242
+Rajasthan,2023,November,14.05,159
+Madhya Pradesh,2023,November,14.05,156
+Delhi,2023,November,11.24,51
+Others,2023,November,87.11,1012
+Maharashtra,2023,December,43.8,325
+Uttar Pradesh,2023,December,35.04,454
+Tamil Nadu,2023,December,23.36,230
+Karnataka,2023,December,20.44,184
+Gujarat,2023,December,20.44,126
+West Bengal,2023,December,17.52,261
+Rajasthan,2023,December,14.6,172
+Madhya Pradesh,2023,December,14.6,169
+Delhi,2023,December,11.68,55
+Others,2023,December,90.52,1092
+Maharashtra,2024,January,42.9,272
+Uttar Pradesh,2024,January,34.32,380
+Tamil Nadu,2024,January,22.88,192
+Karnataka,2024,January,20.02,154
+Gujarat,2024,January,20.02,105
+West Bengal,2024,January,17.16,218
+Rajasthan,2024,January,14.3,144
+Madhya Pradesh,2024,January,14.3,141
+Delhi,2024,January,11.44,46
+Others,2024,January,88.66,914
+Maharashtra,2024,February,41.25,259
+Uttar Pradesh,2024,February,33,361
+Tamil Nadu,2024,February,22,183
+Karnataka,2024,February,19.25,146
+Gujarat,2024,February,19.25,100
+West Bengal,2024,February,16.5,207
+Rajasthan,2024,February,13.75,137
+Madhya Pradesh,2024,February,13.75,134
+Delhi,2024,February,11,44
+Others,2024,February,85.25,868
+Maharashtra,2024,March,42.15,287
+Uttar Pradesh,2024,March,33.72,400
+Tamil Nadu,2024,March,22.48,203
+Karnataka,2024,March,19.67,162
+Gujarat,2024,March,19.67,111
+West Bengal,2024,March,16.86,230
+Rajasthan,2024,March,14.05,151
+Madhya Pradesh,2024,March,14.05,149
+Delhi,2024,March,11.24,49
+Others,2024,March,87.11,963
+Maharashtra,2024,April,40.5,251
+Uttar Pradesh,2024,April,32.4,351
+Tamil Nadu,2024,April,21.6,178
+Karnataka,2024,April,18.9,142
+Gujarat,2024,April,18.9,97
+West Bengal,2024,April,16.2,202
+Rajasthan,2024,April,13.5,133
+Madhya Pradesh,2024,April,13.5,130
+Delhi,2024,April,10.8,43
+Others,2024,April,83.7,844
+Maharashtra,2024,May,39.6,256
+Uttar Pradesh,2024,May,31.68,357
+Tamil Nadu,2024,May,21.12,181
+Karnataka,2024,May,18.48,145
+Gujarat,2024,May,18.48,99
+West Bengal,2024,May,15.84,205
+Rajasthan,2024,May,13.2,135
+Madhya Pradesh,2024,May,13.2,133
+Delhi,2024,May,10.56,43
+Others,2024,May,81.84,859
+Maharashtra,2024,June,38.85,246
+Uttar Pradesh,2024,June,31.08,343
+Tamil Nadu,2024,June,20.72,174
+Karnataka,2024,June,18.13,139
+Gujarat,2024,June,18.13,95
+West Bengal,2024,June,15.54,197
+Rajasthan,2024,June,12.95,130
+Madhya Pradesh,2024,June,12.95,127
+Delhi,2024,June,10.36,42
+Others,2024,June,80.29,825
+Maharashtra,2024,July,40.5,281
+Uttar Pradesh,2024,July,32.4,392
+Tamil Nadu,2024,July,21.6,199
+Karnataka,2024,July,18.9,159
+Gujarat,2024,July,18.9,109
+West Bengal,2024,July,16.2,225
+Rajasthan,2024,July,13.5,149
+Madhya Pradesh,2024,July,13.5,146
+Delhi,2024,July,10.8,48
+Others,2024,July,83.7,944
+Maharashtra,2024,August,41.25,282
+Uttar Pradesh,2024,August,33,394
+Tamil Nadu,2024,August,22,200
+Karnataka,2024,August,19.25,160
+Gujarat,2024,August,19.25,109
+West Bengal,2024,August,16.5,226
+Rajasthan,2024,August,13.75,149
+Madhya Pradesh,2024,August,13.75,147
+Delhi,2024,August,11,48
+Others,2024,August,85.25,948
+Maharashtra,2024,September,39.6,276
+Uttar Pradesh,2024,September,31.68,386
+Tamil Nadu,2024,September,21.12,196
+Karnataka,2024,September,18.48,156
+Gujarat,2024,September,18.48,107
+West Bengal,2024,September,15.84,222
+Rajasthan,2024,September,13.2,146
+Madhya Pradesh,2024,September,13.2,143
+Delhi,2024,September,10.56,47
+Others,2024,September,81.84,928
+Maharashtra,2024,October,42.15,289
+Uttar Pradesh,2024,October,33.72,403
+Tamil Nadu,2024,October,22.48,204
+Karnataka,2024,October,19.67,163
+Gujarat,2024,October,19.67,112
+West Bengal,2024,October,16.86,232
+Rajasthan,2024,October,14.05,153
+Madhya Pradesh,2024,October,14.05,150
+Delhi,2024,October,11.24,49
+Others,2024,October,87.11,970
+Maharashtra,2024,November,42.9,282
+Uttar Pradesh,2024,November,34.32,394
+Tamil Nadu,2024,November,22.88,200
+Karnataka,2024,November,20.02,160
+Gujarat,2024,November,20.02,109
+West Bengal,2024,November,17.16,226
+Rajasthan,2024,November,14.3,149
+Madhya Pradesh,2024,November,14.3,146
+Delhi,2024,November,11.44,48
+Others,2024,November,88.66,948
+Maharashtra,2024,December,44.55,294
+Uttar Pradesh,2024,December,35.64,410
+Tamil Nadu,2024,December,23.76,208
+Karnataka,2024,December,20.79,166
+Gujarat,2024,December,20.79,114
+West Bengal,2024,December,17.82,236
+Rajasthan,2024,December,14.85,155
+Madhya Pradesh,2024,December,14.85,152
+Delhi,2024,December,11.88,50
+Others,2024,December,92.07,987
+Maharashtra,2025,January,43.8,301
+Uttar Pradesh,2025,January,35.04,420
+Tamil Nadu,2025,January,23.36,213
+Karnataka,2025,January,20.44,170
+Gujarat,2025,January,20.44,116
+West Bengal,2025,January,17.52,241
+Rajasthan,2025,January,14.6,159
+Madhya Pradesh,2025,January,14.6,156
+Delhi,2025,January,11.68,51
+Others,2025,January,90.52,1011
+Maharashtra,2025,February,42.15,274
+Uttar Pradesh,2025,February,33.72,382
+Tamil Nadu,2025,February,22.48,194
+Karnataka,2025,February,19.67,155
+Gujarat,2025,February,19.67,106
+West Bengal,2025,February,16.86,220
+Rajasthan,2025,February,14.05,145
+Madhya Pradesh,2025,February,14.05,142
+Delhi,2025,February,11.24,47
+Others,2025,February,87.11,920
+Maharashtra,2025,March,42.9,289
+Uttar Pradesh,2025,March,34.32,404
+Tamil Nadu,2025,March,22.88,205
+Karnataka,2025,March,20.02,164
+Gujarat,2025,March,20.02,112
+West Bengal,2025,March,17.16,232
+Rajasthan,2025,March,14.3,153
+Madhya Pradesh,2025,March,14.3,150
+Delhi,2025,March,11.44,49
+Others,2025,March,88.66,972
+Maharashtra,2025,April,41.25,261
+Uttar Pradesh,2025,April,33,365
+Tamil Nadu,2025,April,22,185
+Karnataka,2025,April,19.25,148
+Gujarat,2025,April,19.25,101
+West Bengal,2025,April,16.5,209
+Rajasthan,2025,April,13.75,138
+Madhya Pradesh,2025,April,13.75,136
+Delhi,2025,April,11,44
+Others,2025,April,85.25,878
+Maharashtra,2025,May,40.5,266
+Uttar Pradesh,2025,May,32.4,371
+Tamil Nadu,2025,May,21.6,188
+Karnataka,2025,May,18.9,150
+Gujarat,2025,May,18.9,103
+West Bengal,2025,May,16.2,213
+Rajasthan,2025,May,13.5,140
+Madhya Pradesh,2025,May,13.5,138
+Delhi,2025,May,10.8,45
+Others,2025,May,83.7,892
+Maharashtra,2025,June,39.6,255
+Uttar Pradesh,2025,June,31.68,357
+Tamil Nadu,2025,June,21.12,181
+Karnataka,2025,June,18.48,144
+Gujarat,2025,June,18.48,99
+West Bengal,2025,June,15.84,205
+Rajasthan,2025,June,13.2,135
+Madhya Pradesh,2025,June,13.2,133
+Delhi,2025,June,10.56,43
+Others,2025,June,81.84,858
+Maharashtra,2025,July,41.25,292
+Uttar Pradesh,2025,July,33,407
+Tamil Nadu,2025,July,22,206
+Karnataka,2025,July,19.25,165
+Gujarat,2025,July,19.25,113
+West Bengal,2025,July,16.5,234
+Rajasthan,2025,July,13.75,154
+Madhya Pradesh,2025,July,13.75,152
+Delhi,2025,July,11,50
+Others,2025,July,85.25,979
+Maharashtra,2025,August,42.15,293
+Uttar Pradesh,2025,August,33.72,410
+Tamil Nadu,2025,August,22.48,208
+Karnataka,2025,August,19.67,166
+Gujarat,2025,August,19.67,114
+West Bengal,2025,August,16.86,235
+Rajasthan,2025,August,14.05,155
+Madhya Pradesh,2025,August,14.05,152
+Delhi,2025,August,11.24,50
+Others,2025,August,87.11,985
+Maharashtra,2025,September,40.5,287
+Uttar Pradesh,2025,September,32.4,401
+Tamil Nadu,2025,September,21.6,203
+Karnataka,2025,September,18.9,163
+Gujarat,2025,September,18.9,111
+West Bengal,2025,September,16.2,230
+Rajasthan,2025,September,13.5,152
+Madhya Pradesh,2025,September,13.5,149
+Delhi,2025,September,10.8,49
+Others,2025,September,83.7,965
+Maharashtra,2025,October,42.9,300
+Uttar Pradesh,2025,October,34.32,423
+Tamil Nadu,2025,October,22.88,215
+Karnataka,2025,October,20.02,170
+Gujarat,2025,October,20.02,116
+West Bengal,2025,October,17.16,241
+Rajasthan,2025,October,14.3,158
+Madhya Pradesh,2025,October,14.3,156
+Delhi,2025,October,11.44,51
+Others,2025,October,88.66,1010
+Maharashtra,2025,November,43.8,293
+Uttar Pradesh,2025,November,35.04,420
+Tamil Nadu,2025,November,23.36,207
+Karnataka,2025,November,20.44,166
+Gujarat,2025,November,20.44,113
+West Bengal,2025,November,17.52,235
+Rajasthan,2025,November,14.6,155
+Madhya Pradesh,2025,November,14.6,152
+Delhi,2025,November,11.68,50
+Others,2025,November,90.52,986
+Maharashtra,2025,December,45.45,305
+Uttar Pradesh,2025,December,36.36,426
+Tamil Nadu,2025,December,24.24,216
+Karnataka,2025,December,21.21,173
+Gujarat,2025,December,21.21,118
+West Bengal,2025,December,18.18,245
+Rajasthan,2025,December,15.15,161
+Madhya Pradesh,2025,December,15.15,158
+Delhi,2025,December,12.12,52
+Others,2025,December,93.93,1025
