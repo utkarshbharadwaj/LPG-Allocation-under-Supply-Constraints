@@ -116,7 +116,7 @@ baseline_demand <- baseline_demand %>%
   )
 
 # Display and Export
-write.csv(baseline_demand, "final_allocations_v4_fully_constrained.csv", row.names = FALSE)
+write.csv(baseline_demand, "final_allocations_fully_constrained.csv", row.names = FALSE)
 print("Optimization successful! Equity Guarantee, Commercial Floors, and Vulnerability Floors Applied.")
 print(baseline_demand %>% select(State, Optimal_x_id, Domestic_Pct_Met, Optimal_x_ic, Commercial_Pct_Met))
 
