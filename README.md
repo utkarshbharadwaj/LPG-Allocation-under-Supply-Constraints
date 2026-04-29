@@ -54,16 +54,16 @@ Subject to:
 ## 📊 Analytical Findings
 
 ### 1. The Policy Impact (Sector-wise Allocation)
-![Allocation Percentages](plots/plot1_allocation_percentages.png)
+![Allocation Percentages](plot1_allocation_percentages.png)
 * **Protective Floors:** The 40% equity floor actively prevented the convex objective from zeroing out highly developed states (e.g., Delhi, Tamil Nadu), proving the model's political viability.
 * **The Squeezed Middle:** Mid-tier states settled in the ~55-60% allocation range, representing the pure gradient equilibrium where the marginal economic penalty perfectly balances the marginal health penalty.
 
 ### 2. Physical Supply Allocation vs. Shortfall
-![Absolute Shortage](plots/plot3_absolute_shortage.png)
+![Absolute Shortage](plot3_absolute_shortage.png)
 * **Prioritization of Vulnerability:** Highly vulnerable states (e.g., Uttar Pradesh, West Bengal) successfully retained ~80% of their domestic supply, minimizing respiratory distress.
 
 ### 3. Residual Societal Penalty
-![Residual Penalty](plots/plot4_residual_penalty.png)
+![Residual Penalty](plot4_residual_penalty.png)
 * Visualizing the minimized objective function components, demonstrating the exact financial and epidemiological damages remaining under the optimal allocation.
 
 ## 🎓 Authors
